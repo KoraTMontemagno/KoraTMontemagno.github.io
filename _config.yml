@@ -21,6 +21,9 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
+- offline.md
+- thanks.md
+
 
 # 2. Installed Gems
 plugins:
@@ -62,7 +65,7 @@ collections:
     output: true
     description: "A messy collection of thoughts" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Attempts, failures, improvements
     feature_image: "https://picsum.photos/2560/600?image=866" #change this
 
 # 6. Jekyll collections settings
@@ -88,13 +91,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "The blind seer" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "I am sharing my newfond knowledge on sex and pleasure research" # Site description and default description, also used in jekyll-seo-tag
+url: "https://koratmontemagno.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/KoraTMontemagno/KoraTMontemagno.github.io"
+email: "kora.montemagno@cfin.au.dk"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
