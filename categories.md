@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: Tutorials
 layout: categories
-excerpt: "Category index"
+excerpt: "Tutorials index"
 aside: true
 ---
