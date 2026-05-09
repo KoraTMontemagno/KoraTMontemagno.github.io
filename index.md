@@ -1,7 +1,7 @@
 ---
 title: About
 feature_text: |
-  ## Alembic
+  ## The blind seer
   A website for sex and pleasure research
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am sharing my newfound knowledge on sex and pleasure research!"
