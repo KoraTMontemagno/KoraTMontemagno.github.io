@@ -2,7 +2,7 @@
 title: How everything started
 categories:
 - General
-- External sources
+- Journey
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 

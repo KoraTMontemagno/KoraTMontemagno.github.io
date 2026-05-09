@@ -23,6 +23,7 @@ exclude:
 - .jekyll-cache
 - offline.md
 - thanks.md
+- elements.md
 
 
 # 2. Installed Gems
@@ -121,9 +122,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
+#- title: Elements
+#  url: /elements/
+- title: Posts
   url: /blog/
 - title: Tutorials
   url: /categories/
