@@ -67,7 +67,7 @@ collections:
     description: "A messy collection of thoughts" # The post list page content
     feature_text: |
       Attempts, failures, improvements
-    feature_image: "https://picsum.photos/2560/600?image=866" #change this
+    feature_image: images/klimt_original.png
 
 # 6. Jekyll collections settings
 defaults:
@@ -126,7 +126,7 @@ navigation_header:
 #  url: /elements/
 - title: Posts
   url: /blog/
-- title: Tutorials
+- title: Categories
   url: /categories/
 - title: Search
   url: /search/
