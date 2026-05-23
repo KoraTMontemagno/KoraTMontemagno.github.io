@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## The blind seer
   A website for sex and pleasure research
-feature_image: "images/prova"
+feature_image: "images/prova.jpg"
 excerpt: "I am sharing my newfound knowledge on sex and pleasure research!"
 ---
 
