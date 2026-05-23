@@ -67,7 +67,7 @@ collections:
     description: "A messy collection of thoughts" # The post list page content
     feature_text: |
       Attempts, failures, improvements
-    feature_image: /images/klimt_original.png
+    feature_image: "/images/klimt_original.png"
 
 # 6. Jekyll collections settings
 defaults:
