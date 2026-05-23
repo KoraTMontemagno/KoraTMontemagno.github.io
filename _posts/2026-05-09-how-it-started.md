@@ -2,7 +2,6 @@
 title: How everything started
 categories:
 - Attempts
-feature_image: "../images/4.1.1.png"
 ---
 
 Year 1 of my PhD - first experiment on pain perception. 7 different experimenters, 2 weeks, 3 sessions per participants, overlapping methodics. Timing is too tight, tiredness brings out silly errors in us - I am severely underprepared and thinking about whether academia is for me (well, I still do).
