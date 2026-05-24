@@ -64,7 +64,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "A messy collection of thoughts" # The post list page content
+    description: "Here you will find all the posts chronologically. If you need to look for a specific type of posts (e.g. tutorials), go to the Category section" # The post list page content
     feature_text: |
       Attempts, failures, improvements
     feature_image: "/images/klimt_original.png"
