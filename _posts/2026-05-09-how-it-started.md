@@ -1,5 +1,6 @@
 ---
 title: How everything started
+excerpt: How to turn academic masochism in pleasure research
 categories:
 - Attempts
 ---

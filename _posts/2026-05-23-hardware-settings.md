@@ -1,9 +1,8 @@
 ---
-title: Hardware settings
-excerpt: aka - how I learned to connect a sex toy to the computer
+title: 1. Hardware settings
+excerpt: How do you connect a sex toy to a computer bypassing the commercial apps? 
 categories:
 - Tutorials
-feature_image: "images/4.1.1.png"
 ---
 
 If we want to test evoked potentials with EEG in response to a pleasurable sexual stimulus, we need to have a reliable way to deliver the stimulus, get a response, and get the exact activation time of the device you are using to understand how to epoch the EEG signal (this is referred to as EEG trigger).
@@ -23,7 +22,7 @@ So we come to the second solution - using a commercial sex toy and connecting vi
 
 For this recipe you will need:
 - A computer (no idea of specs, sorry) :D
-- Phyton (I used version 3.12) with [buttplug](https://github.com/buttplugio/buttplug-py) package installed
+- Python (I used version 3.12) with [buttplug](https://github.com/buttplugio/buttplug-py) package installed
 - [Intiface Central](https://intiface.com/): this will allow us to connect with the device
 - [Buttplug.io](https://buttplug.io/)
 - A sex toy capable of bluetooth connection - I used [Satysfier's dual love](https://www.satisfyer.com/dk/en/satisfyer-dual-love-connect-app?srsltid=AfmBOoqy-77lkGS242cNswD6RFosGqNBY0BH6J_K7G8_dVqLCzPtrkGm), as it has both a vibrator and a clitsucker
