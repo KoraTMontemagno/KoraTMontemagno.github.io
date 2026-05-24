@@ -10,7 +10,7 @@ Then the idea - why not doing this again, but for *sexual pleasure*?
 
 <!-- more -->
 
-That is where you realize you got into pain neuroscience because you are that type of masochist.
+That is where you realize you got into pain neuroscience because you are *that* type of masochist.
 
 But for real: in the breaks I start researching a bit if there are laboratories that deal with sexual pleasure and neurophysiology. I specifically aim at experiments that stimulate genitals with a pleasurable sensation and record EEG: turns out there is not so much there, a lot of the research has been done in the 70s (and it is quite fun --> you can see a review [here](https://link.springer.com/article/10.1007/s10508-019-01547-3)). So I widen my scope to any sex laboratory I can find online - and I contact *all of them*.
 
@@ -31,7 +31,7 @@ Well, definitely not. I will talk more extensively about this, but the lab I am 
 - which type of sitmulus do you use? (I guess vibratory, but you could use air pressure)
 - where? (vaginal/clitoreal? If you have a penis is even more difficult)
 - what is a correct duration?
-- which device do you use? How do you program it
+- which device do you use? How do you program it?
 - if you use a bluetooth device, how do you retrieve the onset time for the stimulus accounting for a variable lag?
 - how do you account for changes in excitation?
 - how do you do a long enough experiment without making people having an orgasm?

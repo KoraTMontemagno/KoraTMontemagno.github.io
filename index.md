@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## The blind seer
   A website for sex and pleasure research
-feature_image: "images/2.2.png"
+feature_image: "images/logo.png"
 excerpt: "I am sharing my newfound knowledge on sex and pleasure research!"
 ---
 
@@ -16,7 +16,7 @@ During my PhD, mainly focused on pain perception, I decided that I wanted to be 
 
 This is more or less the story of an attempt. 
 
-I have decided to share all the intellectual wourk I could come up with, in order to make your life easier (you are welcome): by doing research on any phenomenon, we are controlling the *means of production* of that phenomenon. We are shaping what we want to define. Thus, these means need to be accessible and understandable for as many people as we can, if we ever want to progress outside our preconceptions. 
+I have decided to share all the intellectual work I could come up with, in order to make your life easier (you are welcome): by doing research on any phenomenon, we are controlling the *means of production* of that phenomenon. We are shaping what we want to define. Thus, these means need to be accessible and understandable for as many people as we can, if we ever want to progress outside our preconceptions. 
 
 But this is not just a practical tutorial - because why not? It is a messy collection of thoughts spanning different domains: from personal research struggles as a very chaotic neurodivergent and queer scientist, to the relevance of fostering public discourse around sexual pleasure, to the societal and political impact we may hold as academics and researchers.
 
